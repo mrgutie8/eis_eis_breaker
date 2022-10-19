@@ -1,24 +1,24 @@
-Raesfeld -
-Flughafen -
-Berlin -
-Bratwurst -
-Hauptstrasse -
-Brot -
-Klimaanlage -
+Raesfeld -                Place in North Rhine-Westphalia    
+Flughafen -               Airport
+Berlin -                  Berlin
+Bratwurst -               Sausages fried or intended for frying
+Hauptstrasse -            Main road
+Brot -                    bread
+Klimaanlage -             air conditioning
 Rammstein -
-Porsche -
-BMW -
-Biergarten -
-Ratskeller -
+Porsche -                 motor vehicle brand
+BMW -                     BMW
+Biergarten -              beer garden
+Ratskeller -              Restaurant located in the basement of a town hall
 Dirndel -
-Lederhose -
-Schloss -
-wettbewerbsfaehig -
-Mehlhase -
-Gebaeck -
-Baeckerei -
-Hund -
-Doener -
-Apfelkuchen -
-Schloss -
+Lederhose -               leather pants
+Schloss -                 lock
+wettbewerbsfaehig -       competitive
+Mehlhase -                Mehlhase
+Gebaeck -                 pastries
+Baeckerei -               Bakery
+Hund -                    dog
+Doener -                  Doner
+Apfelkuchen -             Apple Cake
+Schloss -                 lock
 Eltz -
