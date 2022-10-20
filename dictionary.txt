@@ -5,12 +5,12 @@ Bratwurst -               Sausages fried or intended for frying
 Hauptstrasse -            Main road
 Brot -                    bread
 Klimaanlage -             air conditioning
-Rammstein -
+Rammstein -               German Neue Deutsche Härte
 Porsche -                 motor vehicle brand
 BMW -                     BMW
 Biergarten -              beer garden
 Ratskeller -              Restaurant located in the basement of a town hall
-Dirndel -
+Dirndel -                 German culture feminine dress
 Lederhose -               leather pants
 Schloss -                 lock
 wettbewerbsfaehig -       competitive
@@ -21,4 +21,4 @@ Hund -                    dog
 Doener -                  Doner
 Apfelkuchen -             Apple Cake
 Schloss -                 lock
-Eltz -
+Eltz -                    German medieval castle
